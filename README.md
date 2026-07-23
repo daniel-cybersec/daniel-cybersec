@@ -1,16 +1,58 @@
-## Hi there 👋
+# Hi there, I'm Daniel Okoth 👋
 
-<!--
-**daniel-cybersec/daniel-cybersec** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 👨‍💻 About Me
 
-Here are some ideas to get you started:
+🎓 Bachelor of Science in Computer Science
+📍 Nairobi, Kenya
+🔐 Cybersecurity Enthusiast
+🌐 Networking Student
+🐍 Python Learner
+📱 Flutter Developer
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I enjoy building software, securing networks, and learning new technologies. My goal is to become a professional cybersecurity engineer and software developer while contributing to AI and open-source projects.
+
+---
+
+## 🛠️ Skills
+
+- Python
+- Flutter
+- HTML & CSS
+- Git & GitHub
+- MySQL
+- Cisco Packet Tracer
+- Networking
+- VLAN Configuration
+- Routing & Switching
+- Linux
+- Windows
+- Cybersecurity Fundamentals
+
+---
+
+## 🚀 Featured Projects
+
+📱 Movie Hub Free (Flutter)
+
+🌐 Enterprise Network Design
+
+🔐 Cybersecurity Labs
+
+🐍 Python Automation Tools
+
+---
+
+## 📜 Certifications
+
+- Industrial Networking
+- Networking Basics
+- Ethical Hacking
+
+---
+
+## 📫 Contact
+
+📧 Email: dantezmd442@gmail.com
+
+💼 LinkedIn:
+https://www.linkedin.com/in/daniel-okoth-63a93a39b
